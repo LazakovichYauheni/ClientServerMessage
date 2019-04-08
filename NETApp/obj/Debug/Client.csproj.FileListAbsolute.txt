@@ -1,0 +1,7 @@
+D:\VSC\NETApp\NETApp\bin\Debug\NETApp.exe.config
+D:\VSC\NETApp\NETApp\bin\Debug\NETApp.exe
+D:\VSC\NETApp\NETApp\bin\Debug\NETApp.pdb
+D:\VSC\NETApp\NETApp\obj\Debug\Client.csprojAssemblyReference.cache
+D:\VSC\NETApp\NETApp\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\VSC\NETApp\NETApp\obj\Debug\NETApp.exe
+D:\VSC\NETApp\NETApp\obj\Debug\NETApp.pdb
